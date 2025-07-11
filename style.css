@@ -11,8 +11,9 @@
     align-items: center;
     min-height: 100vh;
     /* /* Gambar  *terserah kalian/ */
-    background:url(6070859.jpg) no-repeat;
+    background-image: url("./6070859.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
   }
   
